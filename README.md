@@ -1,3 +1,6 @@
+# 60-CUMA NAMAZINI SESSİZ MODA AL
+
+
 npm install @react-native-community/geolocation
 
 npm install react-native-push-notification
