@@ -1,5 +1,7 @@
 # 60-CUMA NAMAZINI SESSİZ MODA AL
 
+projede pek cok cakisma mevcut
+
 
 npm install @react-native-community/geolocation
 
@@ -18,3 +20,5 @@ npm install react-native-silent-switch --force
 npm install react-native-background-fetch --legacy-peer-deps
 
 npm install react-native-background-fetch --force
+
+
