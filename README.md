@@ -1,6 +1,7 @@
 # 60-CUMA NAMAZINI SESSİZ MODA AL
 
-projede pek cok cakisma mevcut notification ve geolocation install ederken cli desteklemiyor
+projede pek cok cakisma mevcut notification ve geolocation install ederken cli desteklemiyor.
+cli yin desteklememesinin nedeni paketlerin durmadan guncelligini kaybetmesi. Buda projemin acilmamasini sagliyor. 
 
 
 npm install @react-native-community/geolocation
