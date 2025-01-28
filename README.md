@@ -1,6 +1,6 @@
 # 60-CUMA NAMAZINI SESSİZ MODA AL
 
-projede pek cok cakisma mevcut
+projede pek cok cakisma mevcut notification ve geolocation install ederken cli desteklemiyor
 
 
 npm install @react-native-community/geolocation
